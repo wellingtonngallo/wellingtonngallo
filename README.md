@@ -4,7 +4,7 @@
 
 How as front-end developer my focus is to work using cutting-edge technologies. I always try to study new technologies and read news about other segments that I don't have so much contact at my work, trying to maintain myself always up to date. I don't have difficulty learning a new programming languages, and I think that all solutions should be developed using the language which will give more benefits and agility to the development team and company.
 
-🔭 I’m currently working on [TOTVS Fluig](https://www.totvs.com/fluig/?utm_campaign=totvs_conversao_sql&utm_source=ppc&utm_medium=google_search&utm_term=ppc&utm_content=ad_text_seg_institucional_totvs_fluig_v1&&utm_term=totvs%20fluig&hsa_tgt=aud-899678493550:kwd-399923623325&hsa_src=g&hsa_acc=5745705588&hsa_cam=2090659804&hsa_grp=100940843232&hsa_mt=e&hsa_kw=totvs%20fluig&hsa_net=adwords&hsa_ver=3&hsa_ad=432588164582&gclid=CjwKCAiA1eKBBhBZEiwAX3gql-dGTSZeyMVx9TzqEDtkHu5ieAEKvZRvIQAO0e2F1Oy03lDQpjcqghoCrJYQAvD_BwE&gclsrc=aw.ds) as front end developer.
+🔭 I’m currently working on [Iteris](https://www.iteris.com.br/) as front end developer.
 
 ## 💼 Skills
 

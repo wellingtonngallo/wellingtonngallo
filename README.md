@@ -4,7 +4,7 @@
 
 How as front-end developer my focus is to work using cutting-edge technologies. I always try to study new technologies and read news about other segments that I don't have so much contact at my work, trying to maintain myself always up to date. I don't have difficulty learning a new programming languages, and I think that all solutions should be developed using the language which will give more benefits and agility to the development team and company.
 
-🔭 I’m currently working on Sync Sales as front end developer.
+🔭 I’m currently working on Inter as front end developer.
 
 ## 💼 Skills
 
